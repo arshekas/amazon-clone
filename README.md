@@ -1,7 +1,7 @@
 # Live Site - 
 https://clone-arsh.web.app/ - **Not mobile responsive yet**
 
-build by watching clever Programmer channel youtube.
+practise by watching clever Programmer channel youtube.
 https://www.youtube.com/watch?v=1_IYL9ZMR_Y
 
 # Getting Started with Create React App
