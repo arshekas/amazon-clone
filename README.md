@@ -1,3 +1,9 @@
+# Live Site - 
+https://clone-arsh.web.app/
+
+build by watching clever Programmer channel youtube.
+https://www.youtube.com/watch?v=1_IYL9ZMR_Y
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
